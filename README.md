@@ -35,10 +35,10 @@ The data is stored in a csv file called "vgsales.csv" available on this projects
 Just to mention, and interesting point to take into account is that we avoided data from 2016, because data was taken at some point that year, and the data wasn't complete, so we'll do analysis up to 2015.
 
 - Games Released per Year without removing data
-[Games_Release_per_Year](Images/Games_Released_per_Year.PNG)
+![Games_Release_per_Year](Images/Games_Released_per_Year.PNG)
 
 - Games Released per Year up to 2015
-[Games_Release_per_Year_2](Images/Games_Released_per_Year_2.PNG)
+![Games_Release_per_Year_2](Images/Games_Released_per_Year_2.PNG)
 
 
 ### Data Analysis
@@ -46,10 +46,10 @@ Just to mention, and interesting point to take into account is that we avoided d
 In this step I did a deep analysis on games sales from different perspectives, analysing every feature and columns of the dataset, even analysed per every Region. I encourage you to execute the Data_Analysis file (2_data_analysis.ipnb). I'll leave here some interesting analysis made on it, but there's many more with interesting insigths!
 
 - Sales Evolution for the main Platforms
-[Sales_Evolution_for_TOP5_Platforms](Images/Sales_Evolution_for_TOP5_Platforms.PNG)
+![Sales_Evolution_for_TOP5_Platforms](Images/Sales_Evolution_for_TOP5_Platforms.PNG)
 
 - Sales Ratio per games released on Top 10 Publishers
-[Sales_Ratio_per_TOP10_publishers](Images/Sales_Ratio_per_TOP10_publishers.PNG)
+![Sales_Ratio_per_TOP10_publishers](Images/Sales_Ratio_per_TOP10_publishers.PNG)
 
 Some interesting analysis made on this step are the following:
 
@@ -67,7 +67,7 @@ In this last step, we create an algorithm in order to forecast the future sales 
 In this step we can see pretty clearly how the sales were really expected to disappear in a few years.
 
 - Sales Forecasting per Region
-[Sales_Forecasting_per_Region](Images/Sales_Forecasting_per_Region.PNG)
+![Sales_Forecasting_per_Region](Images/Sales_Forecasting_per_Region.PNG)
 
 
 ## Conclusions
